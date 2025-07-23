@@ -46,9 +46,17 @@ This project combines AI-powered proctoring with real-time facial expression ana
 
 
 git clone https://github.com/Pallavi-2042/ai-proctoring-interview-evaluation.git
+
+
 cd ai-proctoring-interview-evaluation
+
+
 pip install -r requirements.txt
+
+
 python app.py 
+
+
 Make sure your webcam is enabled and accessible by the application.
 
 📌 Use Cases
